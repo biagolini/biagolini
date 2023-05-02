@@ -35,6 +35,9 @@ I organize my tutorials into repositories based on the primary technology involv
 
 I've created a collection of tutorials on various technologies, which you can find in the repositories below:
 
+- AWS
+  - [Boto3](https://github.com/biagolini/Boto3)
+  - [WebPage, to clone and deploy simple web pages](https://github.com/biagolini/WebPages)
 - [Angular](https://github.com/biagolini/Angular)
 - [C](https://github.com/biagolini/C)
 - [Java](https://github.com/biagolini/Java)
@@ -43,7 +46,7 @@ I've created a collection of tutorials on various technologies, which you can fi
   - [Boto3](https://github.com/biagolini/Boto3)
 - [R](https://github.com/biagolini/R)
 - [Terraform](https://github.com/biagolini/Terraform)
-- [WebPages](https://github.com/biagolini/WebPages)
+
 
 
 
