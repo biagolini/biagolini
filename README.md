@@ -43,7 +43,6 @@ I've created a collection of tutorials on various technologies, which you can fi
 - [Java](https://github.com/biagolini/Java)
 - [PHP](https://github.com/biagolini/Php)
 - [Python](https://github.com/biagolini/Python)
-  - [Boto3](https://github.com/biagolini/Boto3)
 - [R](https://github.com/biagolini/R)
 - [Terraform](https://github.com/biagolini/Terraform)
 
