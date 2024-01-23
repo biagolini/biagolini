@@ -2,7 +2,7 @@
 
 Hi, I'm Carlos Biagolini-Jr, a Cloud Architect specializing in AWS at OpsTeam. My journey began in the academic world, where I studied Biological Sciences at Universidade Federal de Lavras (UFLA), earned a master's degree in conservation from Universidade Federal de São Carlos (UFSCar), and completed a Ph.D. in Ecology at Universidade de Brasília (UnB). However, I transitioned into the tech industry to broaden my career horizons and began pursuing a degree in Systems Analysis and Development at Instituto Federal de São Paulo (IFSP) (currently in progress).
 
-During my research career, I published approximately 20 articles, some in top-tier journals, and developed R packages to address field biologists' challenges in my former area of study. If you are interested in my Biology articles, you can check the list of papers that I published in my [CV Lattes](http://lattes.cnpq.br/4086237188108947).
+During my research career, I published approximately 20 articles, some in top-tier journals, and developed R packages to address field biologists' challenges in my former area of study. If you are interested in my Biology articles, you can check the list of papers that I published in [Google Scholar]([http://lattes.cnpq.br/4086237188108947](https://scholar.google.com/citations?user=WPJugvoAAAAJ&hl).
 
 ## Experience
 
