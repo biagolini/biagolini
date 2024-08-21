@@ -1,10 +1,10 @@
 # About Me
 
-Hi, I'm Carlos Biagolini-Jr, a Cloud Architect specializing in AWS at OpsTeam. I transitioned from a background in Biological Sciences, where I earned advanced degrees and conducted research, into the tech industry to expand my professional scope. Currently, I am pursuing a degree in Systems Analysis and Development at the Instituto Federal de São Paulo (IFSP).
+Hi, I'm Carlos Biagolini-Jr, a Cloud Architect specializing in AWS at OpsTeam. My journey began in the academic world, where I studied Biological Sciences. However, I transitioned into the tech industry to broaden my career horizons.
 
 ## Experience
 
-As a Cloud Architect, I focus on supporting developers and system maintainers in launching new services and maintaining existing ones on AWS. My work emphasizes improving cost efficiency and enhancing security across cloud services. I have extensive experience with AWS, Python, Terraform, and FinOps, and I leverage this expertise to drive continuous improvement in cloud environments.
+As a Cloud Architect, my daily work involves supporting developers and system maintainers in launching new services and maintaining existing ones hosted on AWS. I'm constantly seeking ways to improve cost efficiency and security in cloud services.
 
 ## Expertise
 
