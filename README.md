@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Carlos Biagolini-Jr, a Cloud Architect specializing in AWS at OpsTeam. My journey began in the academic world, where I studied Biological Sciences. However, I transitioned into the tech industry to broaden my career horizons.
+Hi! I'm Carlos Biagolini, an Site Reliability Engineer (SRE)  specialized in AWS, passionate about cloud security, automation, and all things AWS. I’m always looking to expand my network with professionals and enthusiasts from around the world. Connect with me on LinkedIn (https://www.linkedin.com/in/biagolini/) so we can grow our knowledge and opportunities together! If you want to stay updated on the latest insights in cloud security, AI, and AWS, consider following me here on Medium (https://medium.com/@biagolini). I regularly share articles on these topics and more.
 
 ## Experience
 
