@@ -29,16 +29,17 @@ I structure my repositories with a clear naming convention: the main technology 
 ## Tutorials
 
 Explore a collection of my tutorials on various technologies:
-  
-- [Angular](https://github.com/biagolini/Angular)
-- [C](https://github.com/biagolini/C)
-- [Java](https://github.com/biagolini/Java)
-- [Node](https://github.com/biagolini/Node)
-- [PHP](https://github.com/biagolini/Php)
+
 - [Python](https://github.com/biagolini/Python)
-- [R](https://github.com/biagolini/R)
-- [Terraform](https://github.com/biagolini/Terraform)
 - [WebPage, HTML, JS, CSS](https://github.com/biagolini/WebPages)
+- [Angular](https://github.com/biagolini/Angular)
+- [Terraform](https://github.com/biagolini/Terraform)
+- [Java](https://github.com/biagolini/Java)
+- [PHP](https://github.com/biagolini/Php)
+- [Node](https://github.com/biagolini/Node)
+- [R](https://github.com/biagolini/R)
+- [C](https://github.com/biagolini/C)
+
 
 ## My public GitHub repository top languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biagolini&hide_progress=true)](https://github.com/biagolini/github-readme-stats)
