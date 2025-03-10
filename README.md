@@ -11,11 +11,10 @@ As a Cloud Architect, my daily work involves supporting developers and system ma
 My technical expertise includes:
 
 - AWS
-- Boto3
-- Terraform
 - Python
 - AI
-- Sec
+- Boto3
+- Terraform
 
 ## Contact
 
@@ -30,10 +29,7 @@ I structure my repositories with a clear naming convention: the main technology 
 ## Tutorials
 
 Explore a collection of my tutorials on various technologies:
-
-- AWS
-  - [Boto3](https://github.com/biagolini/Boto3)
-  - [WebPage, to clone and deploy simple web pages](https://github.com/biagolini/WebPages)
+  
 - [Angular](https://github.com/biagolini/Angular)
 - [C](https://github.com/biagolini/C)
 - [Java](https://github.com/biagolini/Java)
@@ -42,6 +38,7 @@ Explore a collection of my tutorials on various technologies:
 - [Python](https://github.com/biagolini/Python)
 - [R](https://github.com/biagolini/R)
 - [Terraform](https://github.com/biagolini/Terraform)
+- [WebPage, HTML, JS, CSS](https://github.com/biagolini/WebPages)
 
 ## My public GitHub repository top languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biagolini&hide_progress=true)](https://github.com/biagolini/github-readme-stats)
