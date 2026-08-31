@@ -61,11 +61,6 @@ Curated indexes linking my tutorials by technology:
 
 I actively contribute to the Amazon Web Services (AWS) community as an **AWS Community Builder (AI Engineering)**, publishing technical content on **[YouTube (Biagolini Tech)](https://www.youtube.com/@BiagoliniTech)**, **[Medium](https://medium.com/@biagolini)**, and the **[AWS Builder Center](https://builder.aws.com/community/@cbiagolini)**, and speaking at AWS User Groups and meetups. Topics include AWS services, cloud architecture, serverless patterns, Generative AI, and machine learning on AWS.
 
-## 📊 GitHub Stats
-
-[![Carlos Biagolini's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biagolini&layout=compact&hide_progress=true)](https://github.com/biagolini)
-[![Carlos Biagolini's GitHub stats](https://github-readme-stats.vercel.app/api?username=biagolini&show_icons=true&hide_border=true)](https://github.com/biagolini)
-
 ## 🤝 Connect
 
 Always happy to exchange ideas with fellow builders and AWS cloud enthusiasts. Reach out on [LinkedIn](https://www.linkedin.com/in/biagolini/).
