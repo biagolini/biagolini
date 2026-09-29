@@ -32,6 +32,7 @@ I hold multiple Amazon Web Services (AWS) certifications, verified on [Credly](h
 [![AWS Certified Solutions Architect Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/46164d85-3463-4a6e-b266-d3c6fe50cf66/public_url)
 [![AWS Certified Developer Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/9f1e13f2-3b34-4f07-867b-ea7f3c57865a/public_url)
 [![AWS Certified AI Practitioner](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/f0ffd984-737b-402d-8f0d-fce03a78a277/public_url)
+[![AWS Certified AI Business Strategist](https://images.credly.com/size/110x110/images/ed8c832e-b100-4ab8-8864-2fddb2e87b04/blob)](https://www.credly.com/badges/a6488d95-50e7-467a-8afd-58151f77b603/public_url)
 
 ## 📚 About My GitHub
 
