@@ -52,6 +52,7 @@ Curated indexes linking my tutorials by technology:
 | | [PHP](https://github.com/biagolini/Php) | |
 | | [C](https://github.com/biagolini/C) | |
 | | [R](https://github.com/biagolini/R) | |
+| | [Go](https://github.com/biagolini/Go) | |
 
 ### Featured AWS Projects
 
