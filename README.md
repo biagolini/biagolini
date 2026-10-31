@@ -48,7 +48,7 @@ Curated indexes linking my tutorials by technology:
 | --- | --- | --- |
 | [Terraform](https://github.com/biagolini/Terraform) | [Python](https://github.com/biagolini/Python) | [Angular](https://github.com/biagolini/Angular) |
 | [MongoDB](https://github.com/biagolini/MongoDB) | [Java](https://github.com/biagolini/Java) | [WebPages (HTML/JS/CSS)](https://github.com/biagolini/WebPages) |
-| | [Node.js](https://github.com/biagolini/Node) | |
+| [GitHub Actions](https://github.com/biagolini/GitHub) | [Node.js](https://github.com/biagolini/Node) | |
 | | [PHP](https://github.com/biagolini/Php) | |
 | | [C](https://github.com/biagolini/C) | |
 | | [R](https://github.com/biagolini/R) | |
